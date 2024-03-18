@@ -1,0 +1,35 @@
+{
+  "development": {
+    "username": "root",
+    "password": "",
+    "database": "priy_lead_backend_local",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+     "define": {
+      "timestamps": false, 
+      "freezeTableName": true 
+    }
+  },
+  "test": {
+    "username": "root",
+    "password": "",
+    "database": "priy_lead_backend_local",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": false, 
+      "freezeTableName": true 
+    }
+  },
+  "production": {
+    "username": "root",
+    "password": "",
+    "database": "priy_lead_backend_local",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "define": {
+      "timestamps": false, 
+      "freezeTableName": true 
+    }
+  }
+}
